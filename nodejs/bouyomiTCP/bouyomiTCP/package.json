@@ -1,0 +1,15 @@
+{
+  "name": "bouyomi-tcp",
+  "version": "0.0.0",
+  "description": "bouyomiTCP",
+  "main": "app.js",
+  "author": {
+    "name": "kenta"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.102"
+  },
+  "dependencies": {
+    "jsdom": "^11.6.2"
+  }
+}
